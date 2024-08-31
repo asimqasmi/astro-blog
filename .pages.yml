@@ -2,7 +2,7 @@ media:
   input: public
   output: /
 content:
-  - name: posts
+  - name: posts list
     label: Posts
     type: collection
     path: src/content/blog
