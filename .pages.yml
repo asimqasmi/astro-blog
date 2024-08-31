@@ -3,7 +3,7 @@ media:
   output: /
 content:
   - name: posts
-    label: Posts List
+    label: Posts
     type: collection
     path: src/content/blog
     view:
